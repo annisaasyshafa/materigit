@@ -1,4 +1,4 @@
 # materi untuk Aplikasi GIT
 ## ditulis oleh Nisa
 
-<img src="swiss land.jpg widht=200">
+<img src="swiss land.jpg">
